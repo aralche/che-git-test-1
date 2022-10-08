@@ -9,5 +9,10 @@
 <body>
     <h1>Coba Git Remote</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo ipsa inventore esse unde nihil magni. Debitis ipsum saepe, praesentium doloremque neque omnis totam perspiciatis molestiae earum, magnam mollitia quasi aspernatur?</p>
+    <ul>
+        <li>one</li>
+        <li>two</li>
+        <li>three</li>
+    </ul>
 </body>
 </html>
